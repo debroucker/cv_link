@@ -1,0 +1,39 @@
+body {
+    height: 100%;
+    background: no-repeat linear-gradient(#EC4849, white);
+    font-family: 'Raleway', sans-serif;
+}
+
+.img:hover {
+    box-shadow: 10px 10px 15px grey;
+}
+
+.img {
+    box-shadow: 5px 5px 15px grey;
+    width: 170px;
+    border-radius: 20px
+}
+
+.ronded {
+    border-radius: 50% !important;
+    width: 120px !important;
+}
+
+body {
+    text-align: center
+}
+
+.marged {
+    margin-top: 40px;
+}
+
+.mwa {
+    border-radius: 50%;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+.bottomed {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
